@@ -1,0 +1,70 @@
+.TTT{
+    font-family: "Integral CF Regular";
+     margin-left: 55px;
+}
+
+.mainCart{
+    width: 715px;
+    height: 208px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+    border: 1px solid #0000001A ;
+    border-radius: 20px;
+
+}
+
+.WWW hr{
+    position: relative;
+    top: -150px;
+    width: 660px;
+    margin-left: 25px;
+    border: 1px solid #0000001A;
+}
+
+.imgCart{
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 10px ;
+}
+
+.WWW h3{
+    position: relative;
+    margin-left: 170px;
+    top: -125px;
+}
+
+.WWW p{
+    position: relative;
+    margin-left: 170px;
+    top: -120px;
+}
+
+.WWW .AWA{
+    position: relative;
+    margin-left: 170px;
+    top: -117px;
+}
+
+.imgCart2{
+    position: relative;
+    margin-left: 670px;
+    top: -240px;
+}
+
+.III{
+   position: relative;
+   margin-left: 168px;
+   top: -110px;
+}
+
+.One{
+    position: relative;
+    margin-left: 590px;
+    top: -180px;
+    width: 120px;
+    height: 44px;
+    background-color: #F0F0F0;
+    text-align: center;
+    border-radius: 62px;
+}
