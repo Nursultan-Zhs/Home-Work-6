@@ -7,9 +7,9 @@ export const TopSelling = () => {
             <h2 className='title'>TOP SELLING</h2>
             <div className='products'>
                 <Card />
+                {/* <Card />
                 <Card />
-                <Card />
-                <Card />
+                <Card /> */}
             </div>
             <div className='buttonSel'>
                 <button>View All</button>

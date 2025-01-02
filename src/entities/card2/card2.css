@@ -63,26 +63,3 @@
     margin-bottom: 10px;
     width: 100%;
 }
-
-
-.product-list {
-    display: flex;
-    flex-wrap: wrap; /* Чтобы элементы переносились на следующую строку, если не помещаются */
-    justify-content: space-between; /* Пространство между элементами */
-    gap: 20px; /* Расстояние между продуктами */
-  }
-  
-  .product {
-    flex: 1 1 calc(25% - 20px); /* Каждый продукт занимает 25% ширины, минус отступы */
-    box-sizing: border-box; /* Чтобы отступы не увеличивали ширину */
-    text-align: center;
-  }
-  
-  .product img {
-    max-width: 100%; /* Картинки адаптируются к размеру контейнера */
-    height: auto; /* Сохраняется пропорция картинки */
-  }
-  
-  .description {
-    margin-top: 10px; /* Отступ сверху от картинки */
-  }
